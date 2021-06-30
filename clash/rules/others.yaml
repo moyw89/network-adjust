@@ -438,5 +438,6 @@ payload:
   - DOMAIN-SUFFIX,nypost.help
   - DOMAIN-SUFFIX,nypostreprints.com
   - DOMAIN-SUFFIX,uniswap.org
+  - DOMAIN-DOMAIN,solana.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
