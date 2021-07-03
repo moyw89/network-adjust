@@ -440,6 +440,6 @@ payload:
   - DOMAIN-SUFFIX,netlify.com
   - DOMAIN-SUFFIX,netlify.app
   - DOMAIN-SUFFIX,uniswap.org
-  - DOMAIN-DOMAIN,solana.com
+  - DOMAIN,solana.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
