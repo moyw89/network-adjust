@@ -443,6 +443,7 @@ payload:
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,etherscan.io
+  - DOMAIN-SUFFIX,mulliken.net
   - DOMAIN,solana.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
