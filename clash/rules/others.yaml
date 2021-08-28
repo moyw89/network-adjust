@@ -454,5 +454,6 @@ payload:
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,openzeppelin.com
   - DOMAIN-SUFFIX,cardano.org
+  - DOMAIN-SUFFIX,ipinfo.io
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
