@@ -456,5 +456,10 @@ payload:
   - DOMAIN-SUFFIX,cardano.org
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,nextjs.org
+  - DOMAIN-SUFFIX,substack.com
+  - DOMAIN-SUFFIX,hedwig.pub
+  - DOMAIN-SUFFIX,thepandatoken.com
+  - DOMAIN-SUFFIX,csgorun.pro
+  - DOMAIN-SUFFIX,tradingview.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
