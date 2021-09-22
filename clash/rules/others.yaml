@@ -462,5 +462,6 @@ payload:
   - DOMAIN-SUFFIX,csgorun.pro
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,sodaprotocol.com
+  - DOMAIN-SUFFIX,dev.to
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
