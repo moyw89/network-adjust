@@ -464,5 +464,6 @@ payload:
   - DOMAIN-SUFFIX,sodaprotocol.com
   - DOMAIN-SUFFIX,dev.to
   - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,coinbase.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
