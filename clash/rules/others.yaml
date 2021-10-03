@@ -465,5 +465,6 @@ payload:
   - DOMAIN-SUFFIX,dev.to
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
