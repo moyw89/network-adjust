@@ -404,4 +404,10 @@ DOMAIN-SUFFIX,coinbase.com,Proxy
 DOMAIN-SUFFIX,coingecko.com,Proxy
 DOMAIN-SUFFIX,coinmarketcap.com,Proxy
 DOMAIN-SUFFIX,ftx.com,Proxy
+DOMAIN-SUFFIX,bitwarden.com,Proxy
+DOMAIN-SUFFIX,madou.club,Proxy
+DOMAIN-SUFFIX,fedoraproject.org,Proxy
+DOMAIN-SUFFIX,rocket.rs,Proxy
+DOMAIN-SUFFIX,docs.rs,Proxy
+DOMAIN-SUFFIX,solscan.io,Proxy
 

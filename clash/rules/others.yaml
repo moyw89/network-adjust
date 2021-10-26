@@ -467,5 +467,19 @@ payload:
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,ftx.com
+  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,madou.club
+  - DOMAIN-SUFFIX,fedoraproject.org
+  - DOMAIN-SUFFIX,rocket.rs
+  - DOMAIN-SUFFIX,docs.rs
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,ftx.com
+  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,madou.club
+  - DOMAIN-SUFFIX,fedoraproject.org
+  - DOMAIN-SUFFIX,rocket.rs
+  - DOMAIN-SUFFIX,docs.rs
+  - DOMAIN-SUFFIX,solscan.io
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
