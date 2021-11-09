@@ -410,4 +410,5 @@ DOMAIN-SUFFIX,fedoraproject.org,Proxy
 DOMAIN-SUFFIX,rocket.rs,Proxy
 DOMAIN-SUFFIX,docs.rs,Proxy
 DOMAIN-SUFFIX,solscan.io,Proxy
+DOMAIN,beta-app.1sol.io,Proxy
 
