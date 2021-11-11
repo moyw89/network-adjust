@@ -446,7 +446,7 @@ payload:
   - DOMAIN-SUFFIX,mulliken.net
   - DOMAIN-SUFFIX,gobyexample.com
   - DOMAIN-SUFFIX,etherconverter.online
-  - DOMAIN,solana.com
+  - DOMAIN-SUFFIX,solana.com
   - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,axieinfinity.com
   - DOMAIN-SUFFIX,v2ex.com
