@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,tvtime.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,twimg.co
