@@ -469,18 +469,10 @@ payload:
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,ftx.com
   - DOMAIN-SUFFIX,bitwarden.com
-  - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,madou.club
-  - DOMAIN-SUFFIX,fedoraproject.org
   - DOMAIN-SUFFIX,rocket.rs
   - DOMAIN-SUFFIX,docs.rs
-  - DOMAIN-SUFFIX,coinmarketcap.com
-  - DOMAIN-SUFFIX,ftx.com
-  - DOMAIN-SUFFIX,bitwarden.com
-  - DOMAIN-SUFFIX,madou.club
   - DOMAIN-SUFFIX,fedoraproject.org
-  - DOMAIN-SUFFIX,rocket.rs
-  - DOMAIN-SUFFIX,docs.rs
   - DOMAIN-SUFFIX,solscan.io
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,hotbit.io
@@ -491,6 +483,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazon.de
+  - DOMAIN-SUFFIX,colorlessgreenumbralla.com
   - DOMAIN,beta-app.1sol.io
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
