@@ -484,6 +484,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazon.de
   - DOMAIN-SUFFIX,colorlessgreenumbralla.com
+  - DOMAIN-SUFFIX,atrix.finance
   - DOMAIN,beta-app.1sol.io
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,8.8.8.8/32
